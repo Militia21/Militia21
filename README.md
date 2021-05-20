@@ -13,6 +13,12 @@ I like to code even though I haven't yet mastered it.
 - 💬 I know Node.js.
 - ⚡ Fact: I like a website called Discord
 
+## Contact
+1. I have Discord, I'm very active so you can DM me.
+* Username: `Militia21#0001`
+2. I have guilded too! I am not very active though.
+* Username: `Militia21`
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Militia21&show_icons=true&locale=en" alt="Militia21" /></p>
 
