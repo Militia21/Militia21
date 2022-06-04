@@ -15,7 +15,7 @@ I like to code even though I haven't yet mastered it.
 
 ## Contact
 1. I have Discord, I'm very active so you can DM me.
-* Username: `Militia21#0001`
+* Username: `Militia21#0842`
 2. I have guilded too! I am not very active though.
 * Username: `Militia21`
 
