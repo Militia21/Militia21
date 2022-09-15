@@ -1,5 +1,7 @@
 ![Banner](https://cdn.discordapp.com/attachments/998544586454614016/1019897258063450122/Militia21_Banner.png)
 
+<img alt="Wave" src="https://cdn.discordapp.com/attachments/998544586454614016/1019898089605185556/HandWave.gif" width='40' align="left"/><h2>Hello. I'm Militia21</h2>
+
 ### 👤 &nbsp;About
 🌵 &nbsp;I explore different languages.\
 💡 &nbsp;Currently learning TypeScript.\
