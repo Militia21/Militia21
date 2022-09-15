@@ -1,11 +1,11 @@
-![Banner](https://cdn.discordapp.com/attachments/998544586454614016/1019893249458053120/Militia21_Banner.png)
+![Banner](https://cdn.discordapp.com/attachments/998544586454614016/1019897258063450122/Militia21_Banner.png)
 
 ### Hello! 👋
 
 ### About
-🌵 &nbsp;I explore different languages.
-💡 &nbsp;Currently learning TypeScript.
-🎮 &nbsp;I like to play games in my free time.
+🌵 &nbsp;I explore different languages.\
+💡 &nbsp;Currently learning TypeScript.\
+🎮 &nbsp;I like to play games in my free time.\
 
 ### 🚅 &nbsp;Languages & Programs
 
@@ -32,6 +32,6 @@
 </p>
 
 ### 📚 &nbsp;Projects
-1️⃣ Contributed to [Hurricano](https://github.com/hurricanoDev/Hurricano/) with [Dragonizedpizza](https://github.com/Dragonizedpizza)
-2️⃣ Main contributor in [The Jedi Development](https://discord.gg/thejedi) ([Github](https://github.com/TheJediCorp))
+1️⃣ Contributed to [Hurricano](https://github.com/hurricanoDev/Hurricano/) with [Dragonizedpizza](https://github.com/Dragonizedpizza)\
+2️⃣ Main contributor in [The Jedi Development](https://discord.gg/thejedi) ([Github](https://github.com/TheJediCorp))\
 
