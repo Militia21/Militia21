@@ -5,7 +5,7 @@
 ### About
 🌵 &nbsp;I explore different languages.\
 💡 &nbsp;Currently learning TypeScript.\
-🎮 &nbsp;I like to play games in my free time.\
+🎮 &nbsp;I like to play games in my free time.
 
 ### 🚅 &nbsp;Languages & Programs
 
@@ -33,5 +33,5 @@
 
 ### 📚 &nbsp;Projects
 1️⃣ Contributed to [Hurricano](https://github.com/hurricanoDev/Hurricano/) with [Dragonizedpizza](https://github.com/Dragonizedpizza)\
-2️⃣ Main contributor in [The Jedi Development](https://discord.gg/thejedi) ([Github](https://github.com/TheJediCorp))\
+2️⃣ Main contributor in [The Jedi Development](https://discord.gg/thejedi) ([Github](https://github.com/TheJediCorp))
 
